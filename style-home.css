@@ -1,0 +1,133 @@
+header{
+
+	background: #BBBBBB	;
+	padding: 20PX;
+}
+
+
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+
+nav{
+
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+
+nav li{
+	
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+
+}
+
+nav a:hover{
+
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+
+
+#banner{
+
+	width: 100%;
+}
+
+.principal{
+    width: 100%
+}
+
+h2{
+
+    font-size: 40px;
+	text-align: center;
+    height: 50px;
+    border: 10px;
+    padding-top: 30px;
+    margin: 40px;
+}
+
+
+p{
+    font-size: 15px;
+	text-align: center
+		
+		}
+
+
+#missao{
+
+	font-size: 20px
+}
+
+
+em strong {
+
+	color: blue;
+}
+
+.itens {
+    font-size: 30px;
+	font-style: italic
+
+}
+
+.Beneficios {
+
+    padding: 20px;
+	background: #FFFFFF;
+}
+
+h3 {
+
+    font-size: 40px;
+	text-align: center;
+}
+
+ul{
+
+	display: inline-block;
+	vertical-align: top;
+	width: 10%;
+	margin-right: 15%;
+}
+
+.imagembeneficios{
+
+	width: 50%;
+}
+
+h4 {
+    font-size: 40px;
+	text-align: center;
+}
+
+iframe{
+    display: inline-block;
+	float: left;
+	margin-top: 9px;
+	margin-bottom: 10px;
+}
+
+.mapa{
+    display: inline-block;
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
